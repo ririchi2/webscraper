@@ -130,4 +130,4 @@ dist
 .pnp.*
 
 # extracted_text from the scraping
-extracted_text
+extracted_text.txt
