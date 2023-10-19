@@ -11,7 +11,7 @@ git clone https://github.com/your-username/your-repo-name.git
 ```
 
 2. Navigate to the project directory.
-   
+
 ```
 cd your-repo-name
 ```
@@ -27,7 +27,7 @@ npm install
 5. Run the script.
 
 ```
-node index.js
+npm run start
 ```
 
 6. The extracted text will be saved to a file named `extracted_text.txt` in the same directory.
